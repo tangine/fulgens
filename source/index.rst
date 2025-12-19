@@ -14,6 +14,9 @@
 .. image:: image.png
    :width: 100%
 
+.. index:: 创建, 索引, 测试
+
+
 .. toctree::
    :maxdepth: 3
    :glob:
@@ -21,5 +24,6 @@
    :numbered:
    
    web/index
+   finance/index
    servant/index
    other/index
