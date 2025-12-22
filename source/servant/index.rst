@@ -10,3 +10,4 @@
     math
     logic
     analysis
+    essay
